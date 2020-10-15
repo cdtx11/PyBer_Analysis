@@ -15,7 +15,8 @@ The multiple line chart shows this data over time, and that the data by city typ
 From these graphs I would conclude that operating in urban cities is most successful because total fares is highest, and fare per and per driver are least expensive, leading to a positive customer experience.
 
 **PyBer Summary DataFrame**
-![](/PyBer_Summary_DF.png)
+
+![](/PyBer_Summary_DF.PNG)
 
 **Fare by City Type Line Graph** 
 ![](/analysis/PyBer_fare_summary.png)
